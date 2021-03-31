@@ -26,7 +26,7 @@
 		<mysql-java-connector-version>6.0.6</mysql-java-connector-version>
 		<skyscreamer-version>1.2.3</skyscreamer-version>
 		<json-schema-validator-version>2.2.10</json-schema-validator-version>
-		<google-guava-version>28.0-jre</google-guava-version>
+		<google-guava-version>29.0-jre</google-guava-version>
 		<org-json-version>20090211</org-json-version>
 		<http-component-version>4.3.2</http-component-version>
 		<commons-io-version>2.4</commons-io-version>
