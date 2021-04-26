@@ -29,7 +29,7 @@
 		<google-guava-version>28.0-jre</google-guava-version>
 		<org-json-version>20090211</org-json-version>
 		<http-component-version>4.3.2</http-component-version>
-		<commons-io-version>2.4</commons-io-version>
+		<commons-io-version>2.7</commons-io-version>
 		<scala-version>2.11.1</scala-version>
 	</properties>
 
