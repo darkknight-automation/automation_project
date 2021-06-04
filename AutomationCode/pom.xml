@@ -28,7 +28,7 @@
 		<json-schema-validator-version>2.2.10</json-schema-validator-version>
 		<google-guava-version>28.0-jre</google-guava-version>
 		<org-json-version>20090211</org-json-version>
-		<http-component-version>4.3.2</http-component-version>
+		<http-component-version>4.5.13</http-component-version>
 		<commons-io-version>2.4</commons-io-version>
 		<scala-version>2.11.1</scala-version>
 	</properties>
