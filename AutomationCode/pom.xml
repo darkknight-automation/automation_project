@@ -19,7 +19,7 @@
 		<es.version>5.6.3</es.version>
 		<tools.version>1.6.0</tools.version>
 		<slfj.api.version>1.7.25</slfj.api.version>
-		<log4j.api.version>2.1</log4j.api.version>
+		<log4j.api.version>2.15.0</log4j.api.version>
 		<log4j.slf4j.impl.version>2.1</log4j.slf4j.impl.version>
 		<log4j.core>2.1</log4j.core>
 		<commons.lang3.version>3.4</commons.lang3.version>
